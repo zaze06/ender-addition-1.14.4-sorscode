@@ -1,0 +1,17 @@
+{
+  "_fv": 5,
+  "_type": "structure",
+  "definition": {
+    "structure": "ender_cristal_drop",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 0,
+    "spawnLocation": "Underground",
+    "spawnHeightOffset": -10,
+    "spawnWorldTypes": [
+      "End"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": []
+  }
+}

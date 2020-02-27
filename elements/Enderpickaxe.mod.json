@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crystal_pickaxe",
+    "customModelName": "Normal",
+    "name": "Ender pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:Enderadditions"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 6,
+    "efficiency": 8.0,
+    "attackSpeed": 5.0,
+    "enchantability": 3,
+    "damageVsEntity": 11.0,
+    "usageCount": 2643,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Endercrystalitem"
+      }
+    ]
+  }
+}
