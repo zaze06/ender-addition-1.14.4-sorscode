@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crystal_sword",
+    "customModelName": "Normal",
+    "name": "Endersword",
+    "creativeTab": {
+      "value": "CUSTOM:Enderadditions"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 6,
+    "efficiency": 7.0,
+    "attackSpeed": 0.5,
+    "enchantability": 3,
+    "damageVsEntity": 15.0,
+    "usageCount": 2531,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Endercrystalitem"
+      }
+    ]
+  }
+}
