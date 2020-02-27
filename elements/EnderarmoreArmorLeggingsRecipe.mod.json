@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnderarmoreArmor.legs"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Endercrystalitem"
+      },
+      {
+        "value": "CUSTOM:Endercrystalitem"
+      },
+      {
+        "value": "CUSTOM:Endercrystalitem"
+      },
+      {
+        "value": "CUSTOM:Endercrystalitem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Endercrystalitem"
+      },
+      {
+        "value": "CUSTOM:Endercrystalitem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Endercrystalitem"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "enderarmorearmorleggingsrecipe",
+    "namespace": "mod"
+  }
+}

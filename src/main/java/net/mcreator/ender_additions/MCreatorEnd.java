@@ -17,7 +17,7 @@ import com.mojang.brigadier.arguments.StringArgumentType;
 @Elementsender_additions.ModElement.Tag
 public class MCreatorEnd extends Elementsender_additions.ModElement {
 	public MCreatorEnd(Elementsender_additions instance) {
-		super(instance, 5);
+		super(instance, 12);
 	}
 
 	@Override

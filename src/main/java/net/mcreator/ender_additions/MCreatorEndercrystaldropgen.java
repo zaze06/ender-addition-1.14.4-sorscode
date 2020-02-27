@@ -19,7 +19,7 @@ import net.minecraft.block.Blocks;
 @Elementsender_additions.ModElement.Tag
 public class MCreatorEndercrystaldropgen extends Elementsender_additions.ModElement {
 	public MCreatorEndercrystaldropgen(Elementsender_additions instance) {
-		super(instance, 10);
+		super(instance, 14);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

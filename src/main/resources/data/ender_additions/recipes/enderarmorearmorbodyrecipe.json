@@ -1,0 +1,39 @@
+{
+  "group": "ender_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "2": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "3": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "4": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "5": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "6": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "7": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "8": {
+      "item": "ender_additions:endercrystalitem"
+    }
+  },
+  "result": {
+    "item": "ender_additions:enderarmorearmorbody",
+    "count": 1
+  }
+}

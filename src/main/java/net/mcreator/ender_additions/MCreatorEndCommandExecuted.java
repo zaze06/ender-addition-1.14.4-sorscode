@@ -16,7 +16,7 @@ import net.minecraft.entity.Entity;
 @Elementsender_additions.ModElement.Tag
 public class MCreatorEndCommandExecuted extends Elementsender_additions.ModElement {
 	public MCreatorEndCommandExecuted(Elementsender_additions instance) {
-		super(instance, 9);
+		super(instance, 13);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

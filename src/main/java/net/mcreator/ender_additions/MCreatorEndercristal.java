@@ -24,7 +24,7 @@ public class MCreatorEndercristal extends Elementsender_additions.ModElement {
 	public static final Block block = null;
 
 	public MCreatorEndercristal(Elementsender_additions instance) {
-		super(instance, 2);
+		super(instance, 1);
 	}
 
 	@Override

@@ -1,0 +1,26 @@
+{
+  "group": "ender_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "2": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "3": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "5": {
+      "item": "ender_additions:endercrystalitem"
+    }
+  },
+  "result": {
+    "item": "ender_additions:enderarmorearmorboots",
+    "count": 1
+  }
+}

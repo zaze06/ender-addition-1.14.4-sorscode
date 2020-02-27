@@ -3,19 +3,19 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "crystal_sword",
+    "texture": "endertools_shovel",
     "customModelName": "Normal",
-    "name": "Endersword",
+    "name": "Endertools Shovel",
     "creativeTab": {
       "value": "CUSTOM:Enderadditions"
     },
-    "toolType": "Sword",
-    "harvestLevel": 6,
-    "efficiency": 7.0,
-    "attackSpeed": 0.5,
-    "enchantability": 3,
-    "damageVsEntity": 15.0,
-    "usageCount": 2531,
+    "toolType": "Spade",
+    "harvestLevel": 12,
+    "efficiency": 18.0,
+    "attackSpeed": 1.0,
+    "enchantability": 84,
+    "damageVsEntity": 12.0,
+    "usageCount": 3072,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [

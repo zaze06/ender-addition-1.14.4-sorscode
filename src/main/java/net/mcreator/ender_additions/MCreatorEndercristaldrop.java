@@ -28,7 +28,7 @@ import java.util.Random;
 @Elementsender_additions.ModElement.Tag
 public class MCreatorEndercristaldrop extends Elementsender_additions.ModElement {
 	public MCreatorEndercristaldrop(Elementsender_additions instance) {
-		super(instance, 4);
+		super(instance, 11);
 	}
 
 	@Override

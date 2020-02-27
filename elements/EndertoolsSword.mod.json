@@ -3,19 +3,19 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "crystal_pickaxe",
+    "texture": "endertools_sword",
     "customModelName": "Normal",
-    "name": "Ender pickaxe",
+    "name": "Endertools Sword",
     "creativeTab": {
       "value": "CUSTOM:Enderadditions"
     },
-    "toolType": "Pickaxe",
-    "harvestLevel": 6,
-    "efficiency": 8.0,
-    "attackSpeed": 5.0,
-    "enchantability": 3,
-    "damageVsEntity": 11.0,
-    "usageCount": 2643,
+    "toolType": "Sword",
+    "harvestLevel": 12,
+    "efficiency": 18.0,
+    "attackSpeed": 1.0,
+    "enchantability": 84,
+    "damageVsEntity": 15.0,
+    "usageCount": 3072,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [

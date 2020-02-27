@@ -9,23 +9,23 @@ import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
 
 @Elementsender_additions.ModElement.Tag
-public class MCreatorEndersword extends Elementsender_additions.ModElement {
-	@ObjectHolder("ender_additions:endersword")
+public class MCreatorEndertoolsSword extends Elementsender_additions.ModElement {
+	@ObjectHolder("ender_additions:endertoolssword")
 	public static final Item block = null;
 
-	public MCreatorEndersword(Elementsender_additions instance) {
-		super(instance, 11);
+	public MCreatorEndertoolsSword(Elementsender_additions instance) {
+		super(instance, 6);
 	}
 
 	@Override
 	public void initElements() {
 		elements.items.add(() -> new SwordItem(new IItemTier() {
 			public int getMaxUses() {
-				return 2531;
+				return 3072;
 			}
 
 			public float getEfficiency() {
-				return 7f;
+				return 18f;
 			}
 
 			public float getAttackDamage() {
@@ -33,17 +33,17 @@ public class MCreatorEndersword extends Elementsender_additions.ModElement {
 			}
 
 			public int getHarvestLevel() {
-				return 6;
+				return 12;
 			}
 
 			public int getEnchantability() {
-				return 3;
+				return 84;
 			}
 
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(MCreatorEndercrystalitem.block, (int) (1)));
 			}
-		}, 3, -3.5F, new Item.Properties().group(MCreatorEnderadditions.tab)) {
-		}.setRegistryName("endersword"));
+		}, 3, -3F, new Item.Properties().group(MCreatorEnderadditions.tab)) {
+		}.setRegistryName("endertoolssword"));
 	}
 }

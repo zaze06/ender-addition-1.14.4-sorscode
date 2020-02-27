@@ -9,7 +9,7 @@ import net.minecraft.item.ItemGroup;
 @Elementsender_additions.ModElement.Tag
 public class MCreatorEnderadditions extends Elementsender_additions.ModElement {
 	public MCreatorEnderadditions(Elementsender_additions instance) {
-		super(instance, 1);
+		super(instance, 10);
 	}
 
 	@Override

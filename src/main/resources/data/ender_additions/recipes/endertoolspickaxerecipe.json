@@ -1,0 +1,30 @@
+{
+  "group": "ender_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "1": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "2": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ender_additions:endertoolspickaxe",
+    "count": 1
+  }
+}

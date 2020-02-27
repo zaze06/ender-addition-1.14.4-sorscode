@@ -1,0 +1,27 @@
+{
+  "group": "ender_additions",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "1": {
+      "item": "ender_additions:endercrystalitem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ender_additions:endertoolshoe",
+    "count": 1
+  }
+}

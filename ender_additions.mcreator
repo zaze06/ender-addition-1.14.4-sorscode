@@ -4,7 +4,7 @@
     {
       "name": "Enderadditions",
       "type": "tab",
-      "sortid": 1,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -12,7 +12,7 @@
     {
       "name": "Endercristal",
       "type": "block",
-      "sortid": 2,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -20,7 +20,7 @@
     {
       "name": "Enderglas",
       "type": "block",
-      "sortid": 3,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -28,7 +28,7 @@
     {
       "name": "Endercristaldrop",
       "type": "structure",
-      "sortid": 4,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -36,7 +36,7 @@
     {
       "name": "End",
       "type": "command",
-      "sortid": 5,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -44,15 +44,7 @@
     {
       "name": "Endercrystalitem",
       "type": "item",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Enderpickaxe",
-      "type": "tool",
-      "sortid": 8,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -60,7 +52,7 @@
     {
       "name": "EndCommandExecuted",
       "type": "procedure",
-      "sortid": 9,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -76,7 +68,7 @@
     {
       "name": "Endercrystaldropgen",
       "type": "procedure",
-      "sortid": 10,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -102,9 +94,127 @@
       }
     },
     {
-      "name": "Endersword",
+      "name": "EndertoolsPickaxe",
       "type": "tool",
-      "sortid": 11,
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EndertoolsAxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EndertoolsSword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EndertoolsShovel",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EndertoolsHoe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EndertoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EndertoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EndertoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EndertoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EndertoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EnderarmoreArmor",
+      "type": "armor",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EnderarmoreArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EnderarmoreArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EnderarmoreArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EnderarmoreArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -114,12 +224,19 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.ender_additions.endercristal": "Endercristal",
-      "item.ender_additions.endersword": "Endersword",
+      "item.ender_additions.enderarmorearmorlegs": "Ender Leggings",
+      "item.ender_additions.endertoolsaxe": "Endertools Axe",
       "block.ender_additions.enderglas": "Enderglas",
-      "item.ender_additions.enderpickaxe": "Ender pickaxe",
+      "item.ender_additions.enderarmorearmorboots": "Ender Boots",
+      "item.ender_additions.endertoolssword": "Endertools Sword",
+      "item.ender_additions.enderarmorearmorbody": "EnderChestplate",
+      "item.ender_additions.enderarmorearmorhelmet": "Ender Helmet",
+      "block.ender_additions.endercristal": "Endercristal",
+      "item.ender_additions.endertoolsshovel": "Endertools Shovel",
+      "item.ender_additions.endertoolshoe": "Endertools Hoe",
       "itemGroup.tabenderadditions": "Enderadditions",
-      "item.ender_additions.endercrystalitem": "Ender crystal"
+      "item.ender_additions.endercrystalitem": "Ender crystal",
+      "item.ender_additions.endertoolspickaxe": "Endertools Pickaxe"
     }
   },
   "workspaceSettings": {

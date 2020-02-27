@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "enderarmore_head",
+    "enableBody": true,
+    "textureBody": "enderarmore_body",
+    "enableLeggings": true,
+    "textureLeggings": "enderarmore_leggings",
+    "enableBoots": true,
+    "textureBoots": "enderarmore_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Enderadditions"
+    },
+    "armorTextureFile": "enderarmore",
+    "helmetName": "Ender Helmet",
+    "bodyName": "EnderChestplate",
+    "leggingsName": "Ender Leggings",
+    "bootsName": "Ender Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 90,
+    "damageValueHelmet": 12,
+    "damageValueBody": 30,
+    "damageValueLeggings": 36,
+    "damageValueBoots": 12,
+    "enchantability": 54,
+    "toughness": 5.0,
+    "equipSound": {
+      "value": "block.end_portal_frame.fill"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Endercrystalitem"
+      }
+    ]
+  }
+}

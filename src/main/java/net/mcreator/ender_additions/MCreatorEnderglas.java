@@ -28,7 +28,7 @@ public class MCreatorEnderglas extends Elementsender_additions.ModElement {
 	public static final Block block = null;
 
 	public MCreatorEnderglas(Elementsender_additions instance) {
-		super(instance, 3);
+		super(instance, 2);
 	}
 
 	@Override

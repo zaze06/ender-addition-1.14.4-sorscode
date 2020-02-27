@@ -12,7 +12,7 @@ public class MCreatorEndercrystalitem extends Elementsender_additions.ModElement
 	public static final Item block = null;
 
 	public MCreatorEndercrystalitem(Elementsender_additions instance) {
-		super(instance, 7);
+		super(instance, 3);
 	}
 
 	@Override
