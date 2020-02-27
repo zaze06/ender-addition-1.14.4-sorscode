@@ -1,15 +1,15 @@
 {
   "item.ender_additions.enderarmorearmorlegs": "Ender Leggings",
-  "item.ender_additions.endertoolsaxe": "Endertools Axe",
-  "block.ender_additions.enderglas": "Enderglas",
+  "item.ender_additions.endertoolsaxe": "Ender Axe",
+  "block.ender_additions.enderglas": "Ender glass",
   "item.ender_additions.enderarmorearmorboots": "Ender Boots",
-  "item.ender_additions.endertoolssword": "Endertools Sword",
-  "item.ender_additions.enderarmorearmorbody": "EnderChestplate",
+  "item.ender_additions.endertoolssword": "Ender Sword",
+  "item.ender_additions.enderarmorearmorbody": "Ender Chestplate",
   "item.ender_additions.enderarmorearmorhelmet": "Ender Helmet",
-  "block.ender_additions.endercristal": "Endercristal",
-  "item.ender_additions.endertoolsshovel": "Endertools Shovel",
-  "item.ender_additions.endertoolshoe": "Endertools Hoe",
-  "itemGroup.tabenderadditions": "Enderadditions",
+  "block.ender_additions.endercristal": "Ender crystal",
+  "item.ender_additions.endertoolsshovel": "Ender Shovel",
+  "item.ender_additions.endertoolshoe": "Ender Hoe",
+  "itemGroup.tabenderadditions": "Ender additions",
   "item.ender_additions.endercrystalitem": "Ender crystal",
-  "item.ender_additions.endertoolspickaxe": "Endertools Pickaxe"
+  "item.ender_additions.endertoolspickaxe": "Ender Pickaxe"
 }
