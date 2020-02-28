@@ -1,9 +1,18 @@
-# ender addition 1.14.4 sourcecode
-this is the sorscode  
-this is made whit mcreator 2020.1   
-code is kebe_/zaze_gaming/zaze06 all is the same person, artist is kexson     
-minecraft names       
-coder kebe_         
-artist kexson           
-hope you licking the mod             
-the mod can be find in the relises and on cursforge when we have a relice               
+This is the sourcecode for Ender Additions 1.14.4 Mod.
+This is made with MCreator Version 2020.1.
+
+--------------------------------------------------------
+
+Credits:
+Coder: Kebe_ (Aka Zaze_gaming or Zaze06).
+Illustrator/Artist: Kexson.
+
+-----------------------------------------
+
+I hope you'll like this Mod!
+This mod will soon be found on CurseForge when we'll have a release.
+
+--------------------------------------------------------------------
+
+Thanks for checking this Addition Mod out!
+- Kebe_
